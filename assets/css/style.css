@@ -1,0 +1,30 @@
+.box-shadow-none {
+    box-shadow: none !important;
+}
+
+.bg-color {
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.03) 100%);
+ 
+}
+.accordion-button:not(.collapsed){
+    border: none;
+    box-shadow: none;
+    background-color: #FFF03F;
+    color: black;
+}
+
+.bg-img-2{
+    background-color: #F6E300;
+}
+.bg-yellow{
+    background-color: #FFF03F;
+}
+.max-width-992{
+    max-width: 992px;
+}
+.accordion-button{
+    font-size: 18px;
+}
+.color-red{
+    color: #4D4813;
+}
